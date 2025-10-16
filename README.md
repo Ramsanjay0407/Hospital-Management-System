@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224220077
+# Name:Ramsanjay
+# Date:16/10/2025
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+![usecase](https://github.com/user-attachments/assets/6f700a79-6975-456f-8114-0bb9c17a1a85)
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="924" height="640" alt="class" src="https://github.com/user-attachments/assets/5bd8dc8e-0c2b-48bc-852a-1e07499ed65e" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="927" height="653" alt="communication" src="https://github.com/user-attachments/assets/2bfcc722-604e-485f-afd4-9f295d0d4914" />
 
 
 
@@ -98,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="925" height="820" alt="activity" src="https://github.com/user-attachments/assets/f5fdf833-c4d0-4776-b3cb-64c539961779" />
 
 
 
