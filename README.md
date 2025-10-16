@@ -39,8 +39,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="1113" height="803" alt="image" src="https://github.com/user-attachments/assets/9611beee-78d1-4d5e-aa61-603b4a568615" />
 
-![usecase](https://github.com/user-attachments/assets/6f700a79-6975-456f-8114-0bb9c17a1a85)
 
 
 
@@ -83,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="843" height="423" alt="image" src="https://github.com/user-attachments/assets/3556e7ea-7ef5-49c7-8ebe-7c30713f2594" />
 
 
 
@@ -123,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="823" height="840" alt="image" src="https://github.com/user-attachments/assets/b5fa090f-f376-49e3-ba3d-fb5f3ab30c57" />
 
 
 
